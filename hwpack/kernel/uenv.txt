@@ -1,0 +1,2 @@
+uenvcmd=setenv os_type linux;
+bootargs=earlyprintk clk_ignore_unused selinux=0 scandelay console=ttyS2,115200n8 console=tty0 root=/dev/mmcblk0p2
